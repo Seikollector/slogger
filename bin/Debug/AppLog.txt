@@ -1,0 +1,33 @@
+[27.01.2018 17:39:02]
+Hook Started... Timer Started 
+
+[27.01.2018 17:39:34]
+Mail Send failed! Error code: 3
+
+[27.01.2018 17:39:34]
+<From SendMail> Return Code: 17460360
+
+[27.01.2018 18:41:04]
+Hook Started... Timer Started 
+
+[27.01.2018 18:41:37]
+<From SendMail> Return Code: 4878472
+
+[28.01.2018 14:45:51]
+Hook Started... Timer Started 
+
+[28.01.2018 14:46:25]
+<From SendMail> Return Code: 4878472
+
+[08.02.2018 11:38:59]
+Hook Started... Timer Started 
+
+[22.02.2018 15:20:49]
+Hook Started... Timer Started 
+
+[22.02.2018 15:21:25]
+<From SendMail> Return Code: 4882568
+
+[10.02.2019 17:47:46]
+Hook Started... Timer Started 
+

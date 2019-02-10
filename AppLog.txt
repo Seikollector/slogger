@@ -1,0 +1,18 @@
+[28.01.2018 14:43:41]
+Hook Started... Timer Started 
+
+[08.02.2018 11:30:18]
+Hook Started... Timer Started 
+
+[08.02.2018 11:31:07]
+Hook Started... Timer Started 
+
+[13.01.2019 07:59:56]
+Hook Started... Timer Started 
+
+[13.01.2019 08:00:32]
+Mail Send failed! Error code: 3
+
+[13.01.2019 08:00:32]
+<From SendMail> Return Code: 16958104
+

@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1517089052 source:c:\users\z\documents\zlogger\main.cpp
+	<iostream>
+	<windows.h>
+	"Helper.h"
+	"KeyConstants.h"
+	"Base64.h"
+	"timer.h"
+	"SendMail.h"
+	"KeybHook.h"
+
+1516909594 c:\users\z\documents\zlogger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1516910153 c:\users\z\documents\zlogger\keyconstants.h
+	<map>
+	<string>
+
+1518103861 c:\users\z\documents\zlogger\base64.h
+	<vector>
+	<string>
+
+1517076221 c:\users\z\documents\zlogger\timer.h
+	<thread>
+	<chrono>
+
+1517089021 c:\users\z\documents\zlogger\sendmail.h
+	<fstream>
+	<vector>
+	"windows.h"
+	"io.h"
+	"Timer.h"
+	"Helper.h"
+
+1517084620 c:\users\z\documents\zlogger\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"Helper.h"
+	"Base64.h"
+
+1517165139 c:\users\z\documents\zlogger\keybhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+
